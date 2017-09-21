@@ -16,7 +16,9 @@
 
 6.实现搜索电影功能的实现。
 
-因为这是我做的第一个vue项目，所以有很多地方做的不好，后续会持续改进，这也是一个学习的过程。
+刚学vue没多久，做个小项目练练手，所以有很多地方做的不好，后续会持续改进，这也是一个学习的过程。
+
+![image](https://github.com/WYJmee/Cat-eye-movie/raw/master/resource/update3.jpg)
 
 ## Build Setup
 
