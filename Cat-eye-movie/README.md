@@ -18,7 +18,7 @@
 
 刚学vue没多久，做个小项目练练手，所以有很多地方做的不好，后续会持续改进，这也是一个学习的过程。
 
-![image](https://github.com/WYJmee/cat-eye-movie/tree/master/Screenshots/update3.jpg)
+![image](https://github.com/WYJmee/cat-eye-movie/tree/master/Cat-eye-movie/Screenshots/update3.jpg)
 
 ## Build Setup
 
