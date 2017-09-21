@@ -1,0 +1,9 @@
+.loop(20);
+.loop(@counter) when (@counter > 0) {
+  .loop((@counter - 1));
+  .length-@{counter}{
+    width: ((@length+10) * @counter);
+    height: 100%;
+  }
+}
+
